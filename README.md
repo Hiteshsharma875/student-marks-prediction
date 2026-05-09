@@ -23,3 +23,30 @@ Linear Regression
 
 ```bash
 pip install -r requirements.txt
+
+
+#run this code using
+python model.py
+
+Dataset:
+
+   Hours  Marks
+0      1     15
+1      2     20
+2      3     35
+3      4     40
+4      5     50
+5      6     60
+6      7     70
+7      8     80
+8      9     90
+9     10     95
+
+Model Training Completed Successfully!
+
+Enter study hours: 5
+
+Predicted marks = 50.36
+
+
+
